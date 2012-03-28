@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hollobon.github.com/atom.xml" rel="self"/>
   <link href="http://hollobon.github.com/"/>
-  <updated>2012-03-28T01:25:58+01:00</updated>
+  <updated>2012-03-28T01:32:42+01:00</updated>
   <id>http://hollobon.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This is a test]]></title>
+    <link href="http://hollobon.github.com/blog/2012/03/28/this-is-a-test/"/>
+    <updated>2012-03-28T01:28:00+01:00</updated>
+    <id>http://hollobon.github.com/blog/2012/03/28/this-is-a-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
